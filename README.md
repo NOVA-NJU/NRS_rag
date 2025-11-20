@@ -1,5 +1,3 @@
-太好了！测试成功了！我来为您编写完整的 README 文档：
-
 # 南京大学 RAG 问答系统
 
 基于 RAG (Retrieval-Augmented Generation) 技术的南京大学信息问答系统，能够智能回答关于南京大学各部门、学院、通知公告等相关问题。
@@ -44,7 +42,7 @@
 1. **克隆项目**
 ```bash
 git clone <项目地址>
-cd rag
+cd NRS_rag
 ```
 
 2. **安装依赖**
